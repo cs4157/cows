@@ -1,0 +1,10 @@
+##
+## Beesaybeesaybeesay
+##
+$the_cow = <<EOC;
+   $thoughts   ____     _____   
+    $thoughts | o  |  /      \\ 
+      |/___ \\|        |
+            \\_________|
+            |_|_| |_|_|
+EOC
